@@ -44,7 +44,7 @@
         layer_3 {
             bindings = <
 &kp F1  &kp F4  &trans              &kp LG(UP_ARROW)  &trans         &trans             &kp LC(Y)    &kp F6         &kp F7           &kp F8     &kp F9     &kp F10
-&kp F2  &kp F5  &kp LG(LEFT_ARROW)  &kp LG(DOWN)      &kp LG(RIGHT)  &trans             &kp LC(Z)    &kp RC(C)      &kp RC(V)        &kp RC(X)  &kp RC(A)  &kt LC(F)
+&kp F2  &kp F5  &kp LG(LEFT_ARROW)  &kp LG(DOWN)      &kp LG(RIGHT)  &trans             &kp LC(Z)    &kp RC(C)      &kp RC(V)        &kp RC(X)  &kp RC(A)  &kp LC(F)
 &kp F3  &trans  &trans              &trans            &trans         &trans             &trans       &kp RC(S)      &trans           &trans     &kp F11    &kp F12
                                     &kp CAPS          &trans         &kp LC(LA(DEL))    &kp PAGE_UP  &kp PAGE_DOWN  &kp PRINTSCREEN
             >;
