@@ -24,8 +24,7 @@ layer_1 {
 &trans  &trans  &mmv MOVE_LEFT  &mmv MOVE_DOWN  &mmv MOVE_RIGHT  &trans       &msc SCRL_LEFT  &msc SCRL_DOWN  &msc SCRL_RIGHT  &trans  &trans  &trans
 &trans  &trans  &trans          &trans          &trans           &trans       &trans          &trans          &trans           &trans  &trans  &trans
                                 &mkp MCLK       &mkp MB4         &mkp RCLK    &mkp LCLK       &mkp MB5        &kp F5
->;layer_1 {};
-    };
+>;};
 layer_2 {
          bindings = <
 &trans  &trans  &kp LS(PIPE)   &kp LS(LBRC)  &kp LS(RBRC)  &kp LS(PRCNT)    &kp LS(EXCL)   &kp N7   &kp N8        &kp N9  &kp LS(STAR)  &trans
